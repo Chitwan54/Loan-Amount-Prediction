@@ -10,5 +10,6 @@ Various Regression models are used to predict the Loan Amount and best results a
 
 The Repository contains the following:
 1) Jupyter Notebook, containing the solution to the problem statement.
-2) Dataset
-3) README.md
+2) Dataset(Train and Test)
+3) Predictions
+4) README.md
